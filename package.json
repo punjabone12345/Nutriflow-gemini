@@ -1,0 +1,9 @@
+{
+  "name": "nutriflow-meal-analyzer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "External Gemini meal-analysis backend for NutriFlow. Holds GEMINI_API_KEY server-side so the Base44 app consumes no Base44 LLM/integration credits for meal analysis.",
+  "scripts": {
+    "dev": "netlify dev"
+  }
+}
